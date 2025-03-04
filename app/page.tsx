@@ -1,6 +1,6 @@
-import { GreetingForm } from "@/components/greeting-form"
-import { ExplanationSection } from "@/components/explanation-section"
-import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card"
+import { GreetingForm } from "../components/greeting-form"  
+import { ExplanationSection } from "../components/explanation-section"
+import { Card, CardContent, CardHeader, CardTitle } from "../components/ui/card"
 
 export default function Home() {
   return (
